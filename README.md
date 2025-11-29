@@ -1,3 +1,3 @@
 ## 📸 Project Screenshot
 
-![Homepage Screenshot](screenshots/homepage.png)
+![Homepage Screenshot](screenshot/homepage.png)
