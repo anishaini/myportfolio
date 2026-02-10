@@ -550,9 +550,6 @@ section{
   50%{transform:translateY(-8px)}
   100%{transform:translateY(0)} 
 }
-.floaty{ 
-  animation: floaty 6s ease-in-out infinite;
-}
 
 /* focus styles */
 :focus{ 
