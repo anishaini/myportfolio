@@ -1544,3 +1544,11 @@ textarea.form-control {
     grid-template-columns: 1fr;
   }
 }
+
+.floating-side{
+  position: fixed;
+  right: 0;
+  top: 50%;
+  transform: translate(-50%);
+  margin-left: 9%;
+}
