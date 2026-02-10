@@ -545,11 +545,11 @@ section{
 }
 
 /* micro-interaction: subtle floating */
-@keyframes floaty { 
+/* @keyframes floaty { 
   0%{transform:translateY(0)}
   50%{transform:translateY(-8px)}
   100%{transform:translateY(0)} 
-}
+} */
 
 /* focus styles */
 :focus{ 
